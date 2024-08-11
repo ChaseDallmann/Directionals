@@ -1,0 +1,12 @@
+{
+  "Author": "ViruH",
+  "Name": "Target Compass",
+  "Punchline": "Just giving out some cardinal and intercardinal directions",
+  "Description": "Use /draw to enable.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "compass",
+    "plugin",
+    "draw"
+  ]
+}

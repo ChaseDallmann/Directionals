@@ -1,0 +1,20 @@
+{
+  "Author": "ViruH",
+  "Name": "Target Compass",
+  "InternalName": "SamplePlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Use /draw to enable.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "compass",
+    "plugin",
+    "draw"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Just giving out some cardinal and intercardinal directions",
+  "AcceptsFeedback": true
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAD5rbkTl/k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OmgIt\\Source\\Repos\\ChaseDallmann\\testAddon\\SamplePlugin\\SamplePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OmgIt\\.nuget\\packages\\dalamudpackager\\2.1.13\\dalamudpackager.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

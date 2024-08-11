@@ -1,0 +1,12 @@
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\bin\x64\Debug\goat.png
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\bin\x64\Debug\SamplePlugin.deps.json
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\bin\x64\Debug\SamplePlugin.dll
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\bin\x64\Debug\SamplePlugin.pdb
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfo.cs
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.sourcelink.json
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.dll
+C:\Users\OmgIt\Source\Repos\ChaseDallmann\testAddon\SamplePlugin\obj\x64\Debug\SamplePlugin.pdb
