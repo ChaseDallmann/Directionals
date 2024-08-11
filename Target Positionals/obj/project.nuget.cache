@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "TAD5rbkTl/k=",
+  "dgSpecHash": "7KY5SYRh+VL4OinImeMv2xcAN57AJiKBkyo5gp3cikfvNxUIkZa/X8mJFvwyQ05wK6SchgbzHVzOaZkG+AbfHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OmgIt\\Source\\Repos\\ChaseDallmann\\testAddon\\SamplePlugin\\SamplePlugin.csproj",
+  "projectFilePath": "D:\\Documents\\FFXIV Repos\\Directionals\\Target Positionals\\TargetPositionals.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\OmgIt\\.nuget\\packages\\dalamudpackager\\2.1.13\\dalamudpackager.2.1.13.nupkg.sha512"
+    "C:\\Users\\rbaker\\.nuget\\packages\\dalamudpackager\\2.1.13\\dalamudpackager.2.1.13.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.1.1\\dotnet.reproduciblebuilds.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.sourcelink.azurerepos.git\\1.1.1\\microsoft.sourcelink.azurerepos.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.sourcelink.bitbucket.git\\1.1.1\\microsoft.sourcelink.bitbucket.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512",
+    "C:\\Users\\rbaker\\.nuget\\packages\\microsoft.sourcelink.gitlab\\1.1.1\\microsoft.sourcelink.gitlab.1.1.1.nupkg.sha512"
   ],
   "logs": []
 }
