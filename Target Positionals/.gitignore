@@ -1,0 +1,5 @@
+.gitattributes
+.vs/
+bin/
+obj/
+.idea/
