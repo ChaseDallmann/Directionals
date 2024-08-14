@@ -4,7 +4,7 @@ using Dalamud.Plugin;
 using System.IO;
 using Dalamud.Interface.Windowing;
 using Dalamud.Plugin.Services;
-using SamplePlugin.Windows;
+using TargetPositionals.Windows;
 using Dalamud.Game.ClientState.Objects.SubKinds;
 using Dalamud.Game.ClientState;
 using ImGuiNET;
@@ -15,7 +15,7 @@ using Dalamud.Game.ClientState.Objects.Types;
 using FFXIVClientStructs.FFXIV.Component.GUI;
 using System.Runtime.CompilerServices;
 
-namespace SamplePlugin
+namespace TargetPositionals
 {
     public sealed class Plugin : IDalamudPlugin
     {
@@ -25,7 +25,7 @@ namespace SamplePlugin
         [PluginService] internal static IGameGui GameGui { get; private set; } = null!;
         [PluginService] internal static IClientState ClientState { get; private set; } = null!;
 
-        private const string CommandName = "/targetcompass?";
+        private const string CommandName = "/targetcompass";
         public Configuration Configuration { get; init; }
         public readonly WindowSystem WindowSystem = new("Directionals");
         private ConfigWindow ConfigWindow { get; init; }

@@ -2,7 +2,7 @@ using Dalamud.Configuration;
 using Dalamud.Plugin;
 using System;
 
-namespace SamplePlugin;
+namespace TargetPositionals;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
